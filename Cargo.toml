@@ -1,0 +1,8 @@
+[package]
+name = "Demo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4.14"
+rust_decimal = { version = "1.37.2", features = ["macros"] }
